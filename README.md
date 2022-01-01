@@ -27,7 +27,7 @@ There two apps: Android and Web , it use Firebase backend and many of consoles t
 
 
 DO you need more ?  
-[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/web)
+[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/tree/main/screenshots/web)
 
 
 
@@ -51,7 +51,7 @@ DO you need more ?
 
 
 Do you need more ?  
-[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/android)
+[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/tree/main/screenshots/android)
 
 
 
