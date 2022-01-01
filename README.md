@@ -18,16 +18,16 @@ There two apps: Android and Web , it use Firebase backend and many of consoles t
 
 
 <div align="center">
-<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody2.jpg" width="600" alt="photo1"/>
-<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody9.jpg" width="600" alt="photo2"/>
-<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody19.jpg" width="600" alt="photo3"/>
-<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody21.jpg" width="600" alt="photo4"/>
-<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody36.jpg" width="600" alt="photo5"/>
+<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody2.png" width="600" alt="photo1"/>
+<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody9.png" width="600" alt="photo2"/>
+<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody19.png" width="600" alt="photo3"/>
+<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody21.png" width="600" alt="photo4"/>
+<img src="https://github.com/ABDULKARIMALBAIK/Foody/raw/main/screenshots/web/foody36.png" width="600" alt="photo5"/>
 </div>
 
 
-DO you more ?  
-![SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/web)
+DO you need more ?  
+[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/web)
 
 
 
@@ -50,8 +50,8 @@ DO you more ?
 
 
 
-DO you more ?  
-![SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/android)
+Do you need more ?  
+[SEE MORE...](https://github.com/ABDULKARIMALBAIK/Foody/screenshots/android)
 
 
 
@@ -62,7 +62,7 @@ DO you more ?
 You can test the foody website by this link:
 
 
-![Foody Website](https://foody-e374f.firebaseapp.com/)
+[Foody Website](https://foody-e374f.firebaseapp.com/)
 
 
 
